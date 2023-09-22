@@ -1,0 +1,83 @@
+#EXTM3U 
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
+#EXTINF:-1 group-title="测试频道",翡翠台 5
+http://113.117.74.32:8081/hls/25/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台7
+http://113.117.74.18:8081/hls/25/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台8
+http://113.117.74.19:8081/hls/25/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台9
+http://113.117.74.20:8081/hls/25/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台10
+http://113.117.74.21:8081/hls/25/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台11
+http://113.117.74.22:8081/hls/25/index.m3u8
+#EXTINF:-1 group-title="测试频道",明珠台
+http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="测试频道",明珠台4
+http://113.117.74.22:8081/hls/26/index.m3u8
+#EXTINF:-1 group-title="测试频道",明珠台5
+http://113.117.74.20:8081/hls/26/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://haoren.csjy.cfd/dl/haoren.php?id=6
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://113.117.74.10:8081/hls/67/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://183.62.244.43:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="测试频道",翡翠台15
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8?zgangd
+#EXTINF:-1 group-title="测试频道",广东公共
+http://157.122.177.10:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="测试频道",广东公共3
+http://113.86.204.68:808/hls/18/index.m3u8
+#EXTINF:-1 group-title="测试频道",广东公共4
+http://60.208.16.27:1505/gudou.php?id=1455_4500
+#EXTINF:-1 group-title="测试频道",广东公共5
+http://lu1.cc/itv/php/gudou.php?id=gdms
+#EXTINF:-1 group-title="测试频道",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 group-title="测试频道",广东体育2
+http://113.117.74.22:8081/hls/1/index.m3u8
+#EXTINF:-1 group-title="测试频道",广东体育5
+http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="测试频道",广东珠江
+http://lu1.cc/a/play/php/gudou.php?id=gdzj
+#EXTINF:-1 group-title="测试频道",广东珠江 3
+http://61.143.45.150:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="测试频道",广东珠江
+http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="测试频道",明珠台8
+http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="测试频道",明珠台
+http://113.117.74.10:8081/hls/26/index.m3u8
+#EXTINF:-1 group-title="测试频道",明珠台9
+http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://lu1.cc/a/play/php/gudou.php?id=fct
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://nas.jdshipin.com:8801/gudoufc.php
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://nas.jdshipin.com:8801/gudoufc.php?id=1350_4500&/PLTV/hls.smil.m3u8
+#EXTINF:-1 group-title="测试频道",J2
+http://sc2022.stream-link.org/tv2306.php?id=h03
+#EXTINF:-1 group-title="测试频道",J2
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+#EXTINF:-1 group-title="测试频道",J2
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
+#EXTINF:-1 group-title="测试频道",J2
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+#EXTINF:-1 group-title="测试频道",TVB剧场
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
+#EXTINF:-1 group-title="测试频道",TVB剧场
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 group-title="测试频道",TVB剧场
+http://113.117.74.12:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="测试频道",TVB剧场
+http://113.117.74.15:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="测试频道",TVB剧场
+http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
