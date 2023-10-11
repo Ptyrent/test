@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXTINF:-1 group-title="测试频道",翡翠台
-http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
+http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="测试频道",翡翠台 5
-http://113.117.74.32:8081/hls/25/index.m3u8
+http://116.77.33.101:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="测试频道",翡翠台7
-http://113.117.74.18:8081/hls/25/index.m3u8
+http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="测试频道",翡翠台8
-http://113.117.74.19:8081/hls/25/index.m3u8
+http://r.jdshipin.com/qrfbg
 #EXTINF:-1 group-title="测试频道",翡翠台9
 http://113.117.74.20:8081/hls/25/index.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台10
@@ -50,7 +50,7 @@ http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="测试频道",明珠台8
 http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="测试频道",明珠台
-http://113.117.74.10:8081/hls/26/index.m3u8
+https://pi.0472.org/tv/mzt.php?auth=231005
 #EXTINF:-1 group-title="测试频道",明珠台9
 http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
 #EXTINF:-1 group-title="测试频道",翡翠台
@@ -62,7 +62,7 @@ http://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 group-title="测试频道",翡翠台
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台
-http://nas.jdshipin.com:8801/gudoufc.php?id=1350_4500&/PLTV/hls.smil.m3u8
+http://116.77.33.101:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="测试频道",J2
 http://sc2022.stream-link.org/tv2306.php?id=h03
 #EXTINF:-1 group-title="测试频道",J2
