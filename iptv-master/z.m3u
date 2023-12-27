@@ -1,26 +1,26 @@
 #EXTM3U 
 #EXTINF:-1 group-title="测试频道",翡翠台
-http://r.jdshipin.com/n90gt
+https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 group-title="测试频道",翡翠台 5
-http://116.77.33.101:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台7
-http://r.jdshipin.com/qClQf
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台8
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 group-title="测试频道",翡翠台9
-http://113.117.74.20:8081/hls/25/index.m3u8
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台10
-http://113.117.74.21:8081/hls/25/index.m3u8
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台11
-http://113.117.74.22:8081/hls/25/index.m3u8
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 group-title="测试频道",明珠台
 http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="测试频道",明珠台4
 http://113.117.74.22:8081/hls/26/index.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台
-http://haoren.csjy.cfd/dl/haoren.php?id=6
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
 #EXTINF:-1 group-title="测试频道",翡翠台
-http://113.117.74.10:8081/hls/67/index.m3u8
+http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台
 http://183.62.244.43:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="测试频道",翡翠台15
