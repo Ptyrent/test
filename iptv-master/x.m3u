@@ -50,7 +50,53 @@ http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台 (720p),
 http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",翡翠台 (720p),
+#EXTINF:-1 ,翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 ,翡翠台
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1 ,翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+#EXTINF:-1 ,翡翠台
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+#EXTINF:-1 ,翡翠台
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+#EXTINF:-1 ,翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 ,翡翠台
+http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306344
+#EXTINF:-1 ,翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+#EXTINF:-1 ,翡翠台
+http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306430
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://tvp22.sky4k.top/index1.php
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
+#EXTINF:-1 ,翡翠台
+https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
+#EXTINF:-1 ,翡翠台
+http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206
+#EXTINF:-1 ,翡翠台
+https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+#EXTINF:-1 ,翡翠台
+https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://pi.0472.org/tv/fct.php?auth=2309081833
+#EXTINF:-1 ,翡翠台
+https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+#EXTINF:-1 ,翡翠台
+https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
+#EXTINF:-1 ,翡翠台
+https://pi.0472.org/tv/fct.php?auth=230918
+#EXTINF:-1 ,翡翠台
+https://epg.pw/stream/d060c5d1cc0bf154a0b238e05247a360582c95d53a959d4a85e46c4ea2f117b1.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台 (720p)
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
