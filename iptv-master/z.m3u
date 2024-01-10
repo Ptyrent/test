@@ -18,7 +18,7 @@ http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="测试频道",明珠台4
 http://113.117.74.22:8081/hls/26/index.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="测试频道",翡翠台
 http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",翡翠台
@@ -28,7 +28,7 @@ http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8?zgangd
 #EXTINF:-1 group-title="测试频道",广东公共
 http://157.122.177.10:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="测试频道",广东公共3
-http://113.86.204.68:808/hls/18/index.m3u8
+https://skype.serv00.net/itouch.php?id=gdms
 #EXTINF:-1 group-title="测试频道",广东公共4
 http://60.208.16.27:1505/gudou.php?id=1455_4500
 #EXTINF:-1 group-title="测试频道",广东公共5
@@ -40,7 +40,7 @@ http://113.117.74.22:8081/hls/1/index.m3u8
 #EXTINF:-1 group-title="测试频道",广东体育5
 http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="测试频道",广东珠江
-http://lu1.cc/a/play/php/gudou.php?id=gdzj
+http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="测试频道",广东珠江 3
 http://61.143.45.150:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="测试频道",广东珠江
@@ -79,3 +79,26 @@ http://113.117.74.12:8081/hls/135/index.m3u8
 http://113.117.74.15:8081/hls/135/index.m3u8
 #EXTINF:-1 group-title="测试频道",TVB剧场
 http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
+#EXTINF:-1 group-title="测试频道",翡翠台
+http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://pi.0472.org/tv/fct.php?auth=2309081833
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+#EXTINF:-1 group-title="测试频道",翡翠台
+https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
+
