@@ -36,9 +36,13 @@ http://lu1.cc/itv/php/gudou.php?id=gdms
 #EXTINF:-1 group-title="测试频道",广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 group-title="测试频道",广东体育2
-http://113.117.74.22:8081/hls/1/index.m3u8
+http://ci.emdoor.tech:8080/touchtv.php?pk=1184
 #EXTINF:-1 group-title="测试频道",广东体育5
-http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
+http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="测试频道",广东体育
+https://skype.serv00.net/itouch.php?id=gdty
+#EXTINF:-1 group-title="测试频道",广东体育
+http://api2.52tb.xyz/info?id=414&token=20230326xflvzc
 #EXTINF:-1 group-title="测试频道",广东珠江
 http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="测试频道",广东珠江 3
@@ -68,7 +72,7 @@ http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/t
 #EXTINF:-1 group-title="测试频道",J2
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 #EXTINF:-1 group-title="测试频道",J2
-http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 group-title="测试频道",TVB剧场
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 #EXTINF:-1 group-title="测试频道",TVB剧场
